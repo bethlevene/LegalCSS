@@ -8,6 +8,11 @@ Stable tag: 0.0.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+== Pre-requisits ==
+Wordpress +3.x
+PHP 7.0
+
+
 This simple CSS class makes it easy to style the names of Acts in italics to conform with publishing requirements. 
 This plugin aims to support AGLC3 Styling standards for legal documents, refer to AGLC3 Handbook for more info. 
 Currently in BETA, please email me if you are having issues.
