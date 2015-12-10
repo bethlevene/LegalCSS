@@ -59,6 +59,20 @@ e.g.
 Q. When will the pluging be updated?
 A. A stable version is aimed to come in 2013
 
+Q. Its now 2015 and still no further development, what up??
+A. Between studying law, working, and fighting fascism, I dont have enough time to complete this
+
+Q. Will this ever be finished?
+A. Yes, it seems that others want this so I will finish it.
+
+Q. Will it work with [your CMS]?
+A. Only if you consider Wordpress to be a CMS and use it as one. A Drupal plug-in may be developed at a later date.
+
+Q. Why does it require PHP7.0?
+A. Because I wanted to use some featuresof the new version.
+
+Q. Can I hire you to work on my web/app/server/system/body?
+A. Please see the contact details on my website.
 
 == Screenshots ==
 
