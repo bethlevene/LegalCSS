@@ -27,7 +27,9 @@ License: GPL2
 
 define('LEGALCSS_VERSION', '0.0.1.9');
 define('LEGALCSS_PLUGIN_URL', plugin_dir_url( __FILE__ ));
-
+define('LAW_REPOS', array(
+	"http://www.slp.wa.gov.au/",
+	"http://www.comlaw.gov.au/")); // Define the locations of the law repos
 
  /**
      * Register with hook 'wp_enqueue_scripts', which can be used for front end CSS and JavaScript
