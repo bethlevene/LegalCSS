@@ -1,7 +1,7 @@
 === legalcss ===
 Contributors: byronlevene
 Donate link: http://byronlevene.net/
-Tags: Legal, Law, AGLC3, Style, CSS, Common Law
+Tags: Legal, Law, AGLC3, Style, CSS
 Requires at least: 3.0.1
 Tested up to: 3.x
 Stable tag: 0.0.1.3
