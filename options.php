@@ -1,1 +1,6 @@
-// this file is meant to have code
+<?php 
+
+// Defines the repositories
+define (WASLP, "http://www.slp.wa.gov.au");
+define (ComLaw, "http://www.comlaw.gov.au");
+
